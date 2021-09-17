@@ -1,11 +1,5 @@
 # Welcome to Fylgja
 
-<p align="center">
-    <a href="https://fylgja.dev/">
-        <img src="https://github.com/fylgja/fylgja/blob/main/assets/logo.svg" alt="Fylgja" width="300" height="130">
-    </a>
-</p>
-
 We are a component based CSS framework. Allowing you to use only what you need.
 
 Each component is build as foundation for a specific component. So you can style it to your own look. Without having to build the base styles every time.
