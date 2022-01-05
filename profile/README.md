@@ -1,17 +1,20 @@
 # Welcome to Fylgja
 
 Fylgja is a component based CSS framework.
-Allowing you to use only what you need, making it easier to use Fylgja in other CSS projects.
 
-Each component is build as foundation for a specific component,
-so you can style it to your own look,
-without having to re-build the component styles every time.
+Focusing on making it easier to use CSS components with any other styles.
 
-Fylgja is powered via SCSS,
-but can also be used via PostCSS or just as plain CSS.
+The main focus for Fylgja is to offer each CSS components as a sepprate package,
+allowing you to use only what you need!
 
-Making it very easy to include it in your exciting project,
-or in your preferred setup.
+It is ready for the future,
+but also works in every moderen browser,
+and is RTL friendly without any tools.
+
+Fylgja is also offering its CSS components in many flavors,
+so if you use PostCSS instead of SCSS,
+you can still use Fylgja just with the SCSS version.
+Making it not bound to a spefic pre/post processor.
 
 Want to learn more? Check out our site, https://fylgja.dev
 or [Read more about us, on our about page](https://fylgja.dev/about)
