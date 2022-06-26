@@ -7,7 +7,7 @@ Thanks for helping out! 😇
 First please check;
 
 - to see whether the issue that has already been brought up.
-- if your HTML to ensure your problem isn't caused by a simple error in your own code.
+- if your own code is valid, to ensure your problem isn't caused by a simple error in your own code.
 
 When possible;
 
