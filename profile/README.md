@@ -1,6 +1,6 @@
 # Welcome to Fylgja
 
-Fylgja is a component based CSS framework.
+Fylgja is a component based CSS Libray.
 
 Focusing on making it easier to use CSS components with any other styles.
 
