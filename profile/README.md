@@ -1,20 +1,9 @@
 # Welcome to Fylgja
 
-Fylgja is a component based CSS Libray.
+A Modular **CSS Library** for Modern Web Design **Lean Maintainable** and **Scalable** Empowers Developers to **Effortlessly** Build Exactly What They Need
 
-Focusing on making it easier to use CSS components with any other styles.
+Build with modularity in mind, Fylgja allows you to pick what you need and combine it with other solutions.
+Fylgja is your guide to make it easier to get started and to introduce complex UI's with ease.
 
-The main focus for Fylgja is to offer each CSS components as a sepprate package,
-allowing you to use only what you need!
-
-It is ready for the future,
-but also works in every moderen browser,
-and is RTL friendly without any tools.
-
-Fylgja is also offering its CSS components in many flavors,
-so if you use PostCSS instead of SCSS,
-you can still use Fylgja just with the SCSS version.
-Making it not bound to a spefic pre/post processor.
-
-Want to learn more? Check out our site, https://fylgja.dev
-or [Read more about us, on our about page](https://fylgja.dev/about)
+Want to learn more? Check out [fylgja.dev](https://fylgja.dev/)
+or [Explore Fylgja's Library](https://fylgja.dev/library/base)
