@@ -17,14 +17,10 @@ Fylgja CSS is a modular CSS library built around plain HTML. Pick exactly the pa
 ## Get started
 
 ```bash
-npm install @fylgja/base
+npm install fylgja
 ```
 
-```css
-@import "@fylgja/base";
-```
-
-No build step? Copy a file straight into your project with `npx fylgja@latest add theme`, or link it from a CDN. The [getting started guide](https://fylgja.dev/docs/) covers every option.
+This installs Base, Tokens and Utilities in one go. No build step? Copy a file straight into your project with `npx fylgja@latest add base`, or link it from a CDN. The [getting started guide](https://fylgja.dev/docs/) covers every option.
 
 ## Repositories
 
