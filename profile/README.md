@@ -22,20 +22,6 @@ npm install fylgja
 
 This installs Base, Tokens and Utilities in one go. No build step? Copy a file straight into your project with `npx fylgja@latest add base`, or link it from a CDN. The [getting started guide](https://fylgja.dev/docs/) covers every option.
 
-## Repositories
-
-| Repository | What it is |
-| --- | --- |
-| [fylgja](https://github.com/fylgja/fylgja) | The monorepo with Base, Tokens, Utilities and the components |
-| [site](https://github.com/fylgja/site) | The source of [fylgja.dev](https://fylgja.dev/), including Fylgja UI |
-| [tailwindcss](https://github.com/fylgja/tailwindcss) | Tailwind CSS preset for the Fylgja design system |
-| [snap-slider](https://github.com/fylgja/snap-slider) | A CSS powered slider, enhanced with JavaScript for accessibility |
-| [css-attr-polyfill](https://github.com/fylgja/css-attr-polyfill) | Compiles CSS `attr()` v2 into static fallback rules |
-| [stylelint-config](https://github.com/fylgja/stylelint-config) | The shareable stylelint config behind Fylgja's CSS rules |
-| [php-props-builder](https://github.com/fylgja/php-props-builder) | Generate design tokens from PHP arrays or JSON |
-| [alpinejs-dialog](https://github.com/fylgja/alpinejs-dialog) | Alpine.js helpers for the native HTML dialog |
-| [examples](https://github.com/fylgja/examples) | Working examples with popular tools and frameworks |
-
 ## Follow along
 
 Read the [blog](https://fylgja.dev/blog/) for releases and guides, or follow Fylgja on [Bluesky](https://bsky.app/profile/fylgja.dev), [Mastodon](https://fosstodon.org/@fylgja) and [DEV](https://dev.to/fylgja).
